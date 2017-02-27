@@ -5,9 +5,9 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="267397910292978"
-    token="3061222893950987896"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="271497561311886"
+    token="6150127718764889051"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -23,15 +23,39 @@
         duration="0" />
 
     <artifact
-        location="D:\code\camera\google_camera2_basic\Application\build\outputs\apk\Application-debug.apk"
-        type="MAIN" />
+        location="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="267397910292978"
+        timestamp="269763824234861"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\code\camera\google_camera2_basic\Application\build\outputs\apk\Application-debug.apk"
+            location="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\outputs\apk\Application-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="271224236978621"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="271409261411912"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\builds\debug\271409261411912\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="271497561311886"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

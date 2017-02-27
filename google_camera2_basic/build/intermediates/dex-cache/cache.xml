@@ -3,12 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="D:\E\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_35aa164fd9510204409b884c29b244114b6c66d4\classes.dex" />
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_8c5145084ddb51fbbdb8e92db8406cb625415ed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_931911d64863620d66063c3e6c2de3b5f223c988\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_610e069b0a56e051f0091762cc042947b63d0540\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,15 +36,6 @@
         revision="25.0.2"
         sha1="aab7bbb517191858cb92b74c7b03fc944b7c6f87">
         <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5139024601f693e4fcf9906cfce1abd14a2dccf0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_6a02a4cc09dab8213f712e8ac45ec1d9c4e9d2b7\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,15 +57,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_acd36a6c77ffc28561b3b7a8c7be179832c607ef\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
@@ -75,21 +75,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ac80d08d917723ed3fe4d7d2f9f7acf7300e67b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
         <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_da179164b61f95dc98269e669fd8ee747562a487\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_62a7112027ae5162e8673b9268a4ac01ea5b367d\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,21 +102,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2f7727f6cb946316edd4887419bca9a13ce69a9e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
-        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0d298ccf1b53e62cf5cbfe44e1ea90ab54aaf062\classes.dex" />
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_b148119300a93fcd977eb2f0691c38017e8ec4ff\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,12 +129,174 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4afd2330a45fd76152f78d8264e27dd11ba2007e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
         <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_9f7f99bffe054b3160c0b4406425ed3b9e57274d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06d51d784530e33154116aaa77a2479a07f69914">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2a450aa9564e9980437a82fc8f74470fc0df0cd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2312859c2997d55be09142139c9245b00422125e">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_87108421bd7e18fe266c57acfd2b366a8ef81636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_9d096208e0775bba48b72ac8229c514b64b975c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_335636f38df13333868363a2d6dc141b2806a657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c4965647d8160d2bb4d13924b40a2f3461ad036b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\E\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_35aa164fd9510204409b884c29b244114b6c66d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_2f56af1ccbaf607a8f105b39d6578e606d60dd4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_6a02a4cc09dab8213f712e8ac45ec1d9c4e9d2b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_659fe20775e685e0e68638390e61f88b0a7b1345\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_df91aadda5dab7d176edb80056727995e85282c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_acd36a6c77ffc28561b3b7a8c7be179832c607ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_a64259efee32196a5bd0b1d4b4c4059b02debb5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_58ef459de820546129d034dabd477372626545ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_62a7112027ae5162e8673b9268a4ac01ea5b367d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2f7727f6cb946316edd4887419bca9a13ce69a9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0d298ccf1b53e62cf5cbfe44e1ea90ab54aaf062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.1_069406d9f50094f87871aa7e9cfabdd64ab8d622\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -165,6 +318,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_5d0c156aa25434c542a5a9ee1abff18141f50841\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\code\camera\google_camera2_basic\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -180,6 +342,15 @@
         revision="25.0.2"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
         <dex dex="D:\code\camera\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ec265dcd2bb24d63ca44adcd3fd127d83aef67a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\code\my_camera2_update_mygit\google_camera2_basic\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_820fc0595e03c0cb8aca0ad5db3aadb14af02fb8\classes.dex" />
     </item>
 
 </items>
