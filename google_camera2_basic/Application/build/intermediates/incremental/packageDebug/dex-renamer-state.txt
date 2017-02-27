@@ -1,0 +1,7 @@
+#Fri Feb 24 16:19:19 CST 2017
+base.0=D\:\\code\\camera\\google_camera2_basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_26f8676203592d323cb1f0e232aa0317415350dd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\code\\camera\\google_camera2_basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5139024601f693e4fcf9906cfce1abd14a2dccf0\\classes.dex
+base.1=D\:\\code\\camera\\google_camera2_basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5139024601f693e4fcf9906cfce1abd14a2dccf0
+file.0=D\:\\code\\camera\\google_camera2_basic\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_26f8676203592d323cb1f0e232aa0317415350dd\\classes.dex
